@@ -5,7 +5,7 @@
 	</head>
 	<body>
 		<?php 
-			$c="admin";
+			$c="adminitranstor";
 			$mat_khau=md5($c);
 			$mat_khau=md5($mat_khau);
 			echo $mat_khau."<hr>";
